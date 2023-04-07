@@ -1,4 +1,4 @@
-# user_profile
+# User Profile
 
 A new Flutter project.
 
